@@ -186,11 +186,12 @@ section .title::after{
 }
 .home .home-content .text-1{
     font-size: 27px;
+    margin-right: 130px;
 }
 .home .home-content .text-2{
     font-size: 55px;
     font-weight: 600;
-    margin-left: -3px;
+    margin-right:20px;
 }
 .home .home-content .text-3{
     font-size: 40px;
@@ -201,12 +202,11 @@ section .title::after{
     color: rgb(17, 15, 16);
     font-weight: 500;
 }
-.home .home-content a{
-    display: inline-block;
+.home a{
     background: rgb(32, 32, 32);
     color: #fff;
     font-size: 25px;
-    padding: 12px 36px;
+    padding: 3px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
